@@ -8,7 +8,6 @@ import * as L from 'leaflet';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements AfterViewInit {
-  title = 'leaflet-map';
   private map;
   private markers: Array<L.marker> = [];
 
