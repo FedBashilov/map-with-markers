@@ -1,4 +1,4 @@
-# LeafletMap
+# MapWithMarkers
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.25. <br>
 You can check it here https://map-with-markers.000webhostapp.com
